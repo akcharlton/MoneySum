@@ -1,0 +1,43 @@
+MoneySum Presentation
+========================================================
+author: Ann Charlton
+date: June 19, 2015
+
+Problem
+========================================================
+
+- Many PTO's have hundreds or thousands of dollars in cash to count from fundraisers.
+
+- The bills are typically sorted by denomination and each type is counted and tallied.
+
+- A calculator is then used to calculate the total value.
+
+Solution
+========================================================
+
+MoneySum can help!!
+
+Details
+========================================================
+
+Simply enter in the tallies of each dollar bill denomination, and MoneySum will calculate the total value for you!!
+
+
+Example
+========================================================
+
+For example, if you enter that you have:
+- 65 $1 bills
+- 30 $5 bills
+- 12 $10 bills
+- 40 $20 bills
+- 0 $50 bills
+- 2 $100 bills
+
+MoneySum will caculate that you have a total dollar value of
+
+```
+[1] 1335
+```
+
+
